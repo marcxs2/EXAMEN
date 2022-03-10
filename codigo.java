@@ -18,3 +18,4 @@ public static boolean HyperPar(int num){
         return false;
     }
 }
+sistem.out.print("Conflicto2")
