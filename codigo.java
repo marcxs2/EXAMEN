@@ -19,3 +19,6 @@ public static boolean HyperPar(int num){
     }
 }
 sistem.out.print("Conflicto2")
+    }   
+}
+sistem.out.println("COnficto")
