@@ -16,5 +16,6 @@ public static boolean HyperPar(int num){
     }
     else{
         return false;
-    }
+    }   
 }
+sistem.out.println("COnficto")
